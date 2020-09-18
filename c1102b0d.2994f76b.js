@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{90:function(o){o.exports=JSON.parse('{"allTagsPath":"/camunda-cloud-documentation/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/camunda-cloud-documentation/blog/tags/facebook"}')}}]);
