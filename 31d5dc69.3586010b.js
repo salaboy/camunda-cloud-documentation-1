@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{70:function(a){a.exports=JSON.parse('{"allTagsPath":"/camunda-cloud-documentation/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/camunda-cloud-documentation/blog/tags/docusaurus"}')}}]);
